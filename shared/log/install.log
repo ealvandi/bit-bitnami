@@ -1,0 +1,17 @@
+2020:05:14 20:26:49 ----- Starting log file ------
+2020:05:14 20:26:49 -------------------------------------------
+2020:05:14 20:26:49 Creating workspace workflow
+2020:05:14 20:26:49 Connected to server 127.0.0.1 :3306  using user: 'bn_processmaker'
+2020:05:14 20:26:49 Creating : C:\Bitnami\processmaker-3.4.9-1/apps/processmaker/htdocs/shared//sites/workflow/db.php
+2020:05:14 20:26:49 Creating : C:\Bitnami\processmaker-3.4.9-1/apps/processmaker/htdocs/shared//sites/workflow/databases.php
+2020:05:14 20:26:49 Processing: C:/Bitnami/processmaker-3.4.9-1/apps/processmaker/htdocs/rbac/engine/data/mysql/schema.sql
+2020:05:14 20:26:49 File: schema.sql processed in 0.16496300697327 seconds
+2020:05:14 20:26:49 Processing: C:/Bitnami/processmaker-3.4.9-1/apps/processmaker/htdocs/rbac/engine/data/mysql/insert.sql
+2020:05:14 20:26:50 File: insert.sql processed in 0.039135932922363 seconds
+2020:05:14 20:26:50 Processing: C:/Bitnami/processmaker-3.4.9-1/apps/processmaker/htdocs/workflow/engine/data/mysql/schema.sql
+2020:05:14 20:26:55 File: schema.sql processed in 5.0386519432068 seconds
+2020:05:14 20:26:55 Processing: C:/Bitnami/processmaker-3.4.9-1/apps/processmaker/htdocs/workflow/engine/data/mysql/insert.sql
+2020:05:14 20:26:57 File: insert.sql processed in 2.3356568813324 seconds
+2020:05:14 20:26:57 Creating : C:/Bitnami/processmaker-3.4.9-1/apps/processmaker/htdocs/workflow/engine/config/paths_installed.php
+2020:05:14 20:26:57 Index File updated 1 with lang: {en}, skin: {neoclassic}
+2020:05:14 20:26:57 Installation completed successfully.

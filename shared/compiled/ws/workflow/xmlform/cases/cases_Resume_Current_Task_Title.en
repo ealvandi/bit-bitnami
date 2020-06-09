@@ -1,0 +1,38 @@
+<?php
+$this->id='bHNTajBhT2lsNUhqMmFUTXg1cXM1NTdTa3FhbDNxTFlvcVRQeUpMZzRKU04yNlhabUpHbzJadw______';
+$this->width='550px';
+$this->title='';
+$this->fields = unserialize( 'a:1:{s:6:"TITLE2";O:17:"XmlFormFieldTitle":34:{s:4:"name";s:6:"TITLE2";s:4:"type";s:5:"title";s:5:"label";s:26:"Current Task(s) Properties";s:7:"pmLabel";s:26:"Current Task(s) Properties";s:5:"owner";N;s:8:"language";s:2:"en";s:5:"group";i:0;s:4:"mode";s:4:"edit";s:12:"defaultValue";N;s:13:"gridFieldType";s:0:"";s:9:"gridLabel";s:0:"";s:4:"hint";s:0:"";s:10:"enableHtml";b:0;s:5:"style";s:0:"";s:12:"withoutLabel";b:0;s:9:"className";s:0:"";s:8:"colWidth";i:140;s:8:"colAlign";s:4:"left";s:12:"colClassName";s:0:"";s:10:"titleAlign";s:0:"";s:5:"align";s:0:"";s:11:"showInTable";s:0:"";s:7:"onclick";s:0:"";s:16:"dataCompareField";s:0:"";s:15:"dataCompareType";s:1:"=";s:3:"sql";s:0:"";s:13:"sqlConnection";s:0:"";s:7:"pmtable";s:0:"";s:4:"keys";s:0:"";s:12:"pmconnection";s:0:"";s:7:"pmfield";s:0:"";s:8:"modeGrid";s:0:"";s:11:"modeForGrid";s:4:"edit";s:7:"options";a:0:{}}}' );
+$this->values = unserialize( 'a:0:{}' );
+$this->action='';
+$this->ajaxServer='';
+$this->enableTemplate=false;
+$this->ajaxSubmit=false;
+$this->callback='function(){}';
+$this->in_progress='function(){}';
+$this->template=null;
+$this->className='formDefault';
+$this->objectRequiredFields='[]';
+$this->nextstepsave='';
+$this->printdynaform='';
+$this->adjustgridswidth='0';
+$this->visual_frontend=null;
+$this->tree = unserialize( 'O:8:"Xml_Node":5:{s:4:"name";s:8:"dynaForm";s:4:"type";s:4:"open";s:5:"value";s:3:"
+  ";s:10:"attributes";a:4:{s:4:"name";s:31:"cases_Resume_Current_Task_Title";s:4:"type";s:7:"xmlform";s:5:"width";s:5:"550px";s:10:"labelWidth";s:5:"150px";}s:8:"children";a:2:{i:0;O:8:"Xml_Node":5:{s:4:"name";s:6:"TITLE2";s:4:"type";s:4:"open";s:5:"value";s:5:"
+    ";s:10:"attributes";a:1:{s:4:"type";s:5:"title";}s:8:"children";a:2:{i:0;O:8:"Xml_Node":5:{s:4:"name";s:2:"en";s:4:"type";s:8:"complete";s:5:"value";s:26:"Current Task(s) Properties";s:10:"attributes";a:0:{}s:8:"children";a:0:{}}i:1;O:8:"Xml_Node":5:{s:4:"name";s:0:"";s:4:"type";s:5:"cdata";s:5:"value";s:3:"
+  ";s:10:"attributes";a:0:{}s:8:"children";a:0:{}}}}i:1;O:8:"Xml_Node":5:{s:4:"name";s:0:"";s:4:"type";s:5:"cdata";s:5:"value";s:3:"  
+";s:10:"attributes";a:0:{}s:8:"children";a:0:{}}}}' );
+$this->name='cases_Resume_Current_Task_Title';
+$this->language='en';
+$this->version='0.3';
+$this->type='xmlform';
+$this->sql=null;
+$this->sqlConnection=null;
+$this->height='100%';
+$this->border=1;
+$this->mode='';
+$this->labelWidth='150px';
+$this->onsubmit='';
+$this->requiredFields = unserialize( 'a:0:{}' );
+$this->fieldContentWidth=450;
+?>

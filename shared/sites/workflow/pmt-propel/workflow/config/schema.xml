@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<database name="workflow">
+  <table name="PMT_NEWKALA">
+    <vendor type="mysql">
+      <parameter name="Collation" value="utf8_general_ci"/>
+    </vendor>
+    <column name="APP_UID" type="VARCHAR" size="32" required="true" primaryKey="true" index="true"/>
+    <column name="APP_NUMBER" type="INTEGER" size="11" required="true"/>
+    <column name="APP_STATUS" type="VARCHAR" size="10" required="true"/>
+    <column name="USERNAME" type="VARCHAR" size="255" required="false"/>
+    <column name="USERNAME_LABEL" type="VARCHAR" size="255" required="false"/>
+    <column name="ASSESSREQUEST" type="BOOLEAN" required="false"/>
+    <index name="indexTable">
+      <index-column name="APP_UID"/>
+    </index>
+  </table>
+</database>

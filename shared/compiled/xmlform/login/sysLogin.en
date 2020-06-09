@@ -1,0 +1,104 @@
+<?php
+$this->id='bjlLWDFaNmlwNm5qd0tEVTNxTm42cDda';
+$this->width='400px';
+$this->title='';
+$this->fields = unserialize( 'a:7:{s:5:"TITLE";O:17:"XmlFormFieldTitle":34:{s:4:"name";s:5:"TITLE";s:4:"type";s:5:"title";s:5:"label";s:5:"Login";s:7:"pmLabel";s:5:"Login";s:5:"owner";N;s:8:"language";s:2:"en";s:5:"group";i:0;s:4:"mode";s:4:"edit";s:12:"defaultValue";N;s:13:"gridFieldType";s:0:"";s:9:"gridLabel";s:0:"";s:4:"hint";s:0:"";s:10:"enableHtml";b:0;s:5:"style";s:0:"";s:12:"withoutLabel";b:0;s:9:"className";s:0:"";s:8:"colWidth";i:140;s:8:"colAlign";s:4:"left";s:12:"colClassName";s:0:"";s:10:"titleAlign";s:0:"";s:5:"align";s:0:"";s:11:"showInTable";s:0:"";s:7:"onclick";s:0:"";s:16:"dataCompareField";s:0:"";s:15:"dataCompareType";s:1:"=";s:3:"sql";s:0:"";s:13:"sqlConnection";s:0:"";s:7:"pmtable";s:0:"";s:4:"keys";s:0:"";s:12:"pmconnection";s:0:"";s:7:"pmfield";s:0:"";s:8:"modeGrid";s:0:"";s:11:"modeForGrid";s:4:"edit";s:7:"options";a:0:{}}s:12:"USR_USERNAME";O:16:"XmlFormFieldText":51:{s:4:"size";s:2:"30";s:9:"maxLength";s:2:"50";s:8:"validate";s:3:"Any";s:4:"mask";s:0:"";s:12:"defaultValue";s:0:"";s:8:"required";b:0;s:15:"dependentFields";s:0:"";s:9:"linkField";s:0:"";s:5:"strTo";s:0:"";s:8:"readOnly";b:0;s:13:"sqlConnection";i:0;s:3:"sql";s:0:"";s:9:"sqlOption";a:0:{}s:13:"gridFieldType";s:4:"text";s:7:"formula";s:0:"";s:8:"function";s:0:"";s:11:"replaceTags";i:0;s:10:"renderMode";s:0:"";s:15:"comma_separator";s:1:".";s:12:"autocomplete";s:2:"on";s:10:"onkeypress";s:0:"";s:4:"name";s:12:"USR_USERNAME";s:4:"type";s:4:"text";s:5:"label";s:4:"User";s:7:"pmLabel";s:4:"User";s:5:"owner";N;s:8:"language";s:2:"en";s:5:"group";i:0;s:4:"mode";s:4:"edit";s:9:"gridLabel";s:0:"";s:4:"hint";s:0:"";s:10:"enableHtml";b:0;s:5:"style";s:0:"";s:12:"withoutLabel";b:0;s:9:"className";s:0:"";s:8:"colWidth";i:140;s:8:"colAlign";s:4:"left";s:12:"colClassName";s:0:"";s:10:"titleAlign";s:0:"";s:5:"align";s:0:"";s:11:"showInTable";s:0:"";s:7:"onclick";s:0:"";s:16:"dataCompareField";s:0:"";s:15:"dataCompareType";s:1:"=";s:7:"pmtable";s:0:"";s:4:"keys";s:0:"";s:12:"pmconnection";s:0:"";s:7:"pmfield";s:0:"";s:8:"modeGrid";s:0:"";s:11:"modeForGrid";s:4:"edit";s:7:"options";a:0:{}}s:12:"USR_PASSWORD";O:20:"XmlFormFieldPassword":39:{s:4:"size";s:2:"30";s:9:"maxLength";s:2:"32";s:8:"required";b:0;s:8:"readOnly";b:0;s:12:"autocomplete";s:1:"0";s:4:"name";s:12:"USR_PASSWORD";s:4:"type";s:8:"password";s:5:"label";s:8:"Password";s:7:"pmLabel";s:8:"Password";s:5:"owner";N;s:8:"language";s:2:"en";s:5:"group";i:0;s:4:"mode";s:4:"edit";s:12:"defaultValue";N;s:13:"gridFieldType";s:0:"";s:9:"gridLabel";s:0:"";s:4:"hint";s:0:"";s:10:"enableHtml";b:0;s:5:"style";s:0:"";s:12:"withoutLabel";b:0;s:9:"className";s:0:"";s:8:"colWidth";i:140;s:8:"colAlign";s:4:"left";s:12:"colClassName";s:0:"";s:10:"titleAlign";s:0:"";s:5:"align";s:0:"";s:11:"showInTable";s:0:"";s:7:"onclick";s:0:"";s:16:"dataCompareField";s:0:"";s:15:"dataCompareType";s:1:"=";s:3:"sql";s:0:"";s:13:"sqlConnection";s:0:"";s:7:"pmtable";s:0:"";s:4:"keys";s:0:"";s:12:"pmconnection";s:0:"";s:7:"pmfield";s:0:"";s:8:"modeGrid";s:0:"";s:11:"modeForGrid";s:4:"edit";s:7:"options";a:0:{}}s:8:"USER_ENV";O:20:"XmlFormFieldDropdown":44:{s:12:"defaultValue";s:0:"";s:8:"required";b:0;s:15:"dependentFields";s:0:"";s:8:"readonly";b:0;s:8:"optgroup";i:0;s:6:"option";a:0:{}s:13:"sqlConnection";s:7:"dbarray";s:3:"sql";s:48:"SELECT ENV_ID, ENV_NAME FROM availableWorkspace
+";s:9:"sqlOption";a:0:{}s:9:"saveLabel";i:0;s:12:"modeGridDrop";s:0:"";s:10:"renderMode";s:0:"";s:13:"selectedValue";s:0:"";s:4:"name";s:8:"USER_ENV";s:4:"type";s:8:"dropdown";s:5:"label";s:9:"Workspace";s:7:"pmLabel";s:9:"Workspace";s:5:"owner";N;s:8:"language";s:2:"en";s:5:"group";i:0;s:4:"mode";s:4:"edit";s:13:"gridFieldType";s:0:"";s:9:"gridLabel";s:0:"";s:4:"hint";s:0:"";s:10:"enableHtml";b:0;s:5:"style";s:0:"";s:12:"withoutLabel";b:0;s:9:"className";s:0:"";s:8:"colWidth";i:140;s:8:"colAlign";s:4:"left";s:12:"colClassName";s:0:"";s:10:"titleAlign";s:0:"";s:5:"align";s:0:"";s:11:"showInTable";s:0:"";s:7:"onclick";s:0:"";s:16:"dataCompareField";s:0:"";s:15:"dataCompareType";s:1:"=";s:7:"pmtable";s:0:"";s:4:"keys";s:0:"";s:12:"pmconnection";s:0:"";s:7:"pmfield";s:0:"";s:8:"modeGrid";s:0:"";s:11:"modeForGrid";s:4:"edit";s:7:"options";a:0:{}}s:9:"USER_LANG";O:20:"XmlFormFieldDropdown":44:{s:12:"defaultValue";s:0:"";s:8:"required";b:0;s:15:"dependentFields";s:0:"";s:8:"readonly";b:0;s:8:"optgroup";i:0;s:6:"option";a:0:{}s:13:"sqlConnection";s:7:"dbarray";s:3:"sql";s:43:"SELECT LANG_ID, LANG_NAME FROM langOptions
+";s:9:"sqlOption";a:0:{}s:9:"saveLabel";i:0;s:12:"modeGridDrop";s:0:"";s:10:"renderMode";s:0:"";s:13:"selectedValue";s:0:"";s:4:"name";s:9:"USER_LANG";s:4:"type";s:8:"dropdown";s:5:"label";s:8:"Language";s:7:"pmLabel";s:8:"Language";s:5:"owner";N;s:8:"language";s:2:"en";s:5:"group";i:0;s:4:"mode";s:4:"edit";s:13:"gridFieldType";s:0:"";s:9:"gridLabel";s:0:"";s:4:"hint";s:0:"";s:10:"enableHtml";b:0;s:5:"style";s:0:"";s:12:"withoutLabel";b:0;s:9:"className";s:0:"";s:8:"colWidth";i:140;s:8:"colAlign";s:4:"left";s:12:"colClassName";s:0:"";s:10:"titleAlign";s:0:"";s:5:"align";s:0:"";s:11:"showInTable";s:0:"";s:7:"onclick";s:0:"";s:16:"dataCompareField";s:0:"";s:15:"dataCompareType";s:1:"=";s:7:"pmtable";s:0:"";s:4:"keys";s:0:"";s:12:"pmconnection";s:0:"";s:7:"pmfield";s:0:"";s:8:"modeGrid";s:0:"";s:11:"modeForGrid";s:4:"edit";s:7:"options";a:0:{}}s:7:"BSUBMIT";O:18:"XmlFormFieldSubmit":34:{s:7:"onclick";s:0:"";s:4:"name";s:7:"BSUBMIT";s:4:"type";s:6:"submit";s:5:"label";s:5:"Login";s:7:"pmLabel";s:5:"Login";s:5:"owner";N;s:8:"language";s:2:"en";s:5:"group";i:0;s:4:"mode";s:4:"edit";s:12:"defaultValue";N;s:13:"gridFieldType";s:0:"";s:9:"gridLabel";s:0:"";s:4:"hint";s:0:"";s:10:"enableHtml";b:0;s:5:"style";s:0:"";s:12:"withoutLabel";b:0;s:9:"className";s:0:"";s:8:"colWidth";i:140;s:8:"colAlign";s:4:"left";s:12:"colClassName";s:0:"";s:10:"titleAlign";s:0:"";s:5:"align";s:0:"";s:11:"showInTable";s:0:"";s:16:"dataCompareField";s:0:"";s:15:"dataCompareType";s:1:"=";s:3:"sql";s:0:"";s:13:"sqlConnection";s:0:"";s:7:"pmtable";s:0:"";s:4:"keys";s:0:"";s:12:"pmconnection";s:0:"";s:7:"pmfield";s:0:"";s:8:"modeGrid";s:0:"";s:11:"modeForGrid";s:4:"edit";s:7:"options";a:0:{}}s:2:"JS";O:22:"XmlFormFieldJavaScript":35:{s:4:"code";s:601:"
+
+
+setFocus (getField (\'USR_USERNAME\'));
+
+leimnud.event.add(document.getElementById(\'form[BSUBMIT]\'), \'click\', function() {
+    createCookie("pm_sys_sys", "{\\"sys_sys\\": \\"" + getField("USER_ENV").value + "\\"}", 365);
+
+    var client = getBrowserClient();
+    if (client.browser == "msie" || client.browser == "safari"){
+        document.sysLogin.submit();
+    }
+}.extend(document.getElementById(\'form[BSUBMIT]\')));
+
+try{
+    var s = new String(readCookie("pm_sys_sys"));
+    var obj = eval("(" + s + ")");
+
+    if (obj != null) {
+        getField("USER_ENV").value = obj.sys_sys;
+    }
+} catch(e){}
+
+";s:11:"replaceTags";b:1;s:4:"name";s:2:"JS";s:4:"type";s:10:"javascript";s:5:"label";s:0:"";s:7:"pmLabel";s:0:"";s:5:"owner";N;s:8:"language";s:2:"en";s:5:"group";i:0;s:4:"mode";s:0:"";s:12:"defaultValue";N;s:13:"gridFieldType";s:0:"";s:9:"gridLabel";s:0:"";s:4:"hint";s:0:"";s:10:"enableHtml";b:0;s:5:"style";s:0:"";s:12:"withoutLabel";b:0;s:9:"className";s:0:"";s:8:"colWidth";i:140;s:8:"colAlign";s:4:"left";s:12:"colClassName";s:0:"";s:10:"titleAlign";s:0:"";s:5:"align";s:0:"";s:11:"showInTable";s:0:"";s:7:"onclick";s:0:"";s:16:"dataCompareField";s:0:"";s:15:"dataCompareType";s:1:"=";s:3:"sql";s:0:"";s:13:"sqlConnection";s:0:"";s:7:"pmtable";s:0:"";s:4:"keys";s:0:"";s:12:"pmconnection";s:0:"";s:7:"pmfield";s:0:"";s:8:"modeGrid";s:0:"";s:11:"modeForGrid";s:0:"";}}' );
+$this->values = unserialize( 'a:0:{}' );
+$this->action='';
+$this->ajaxServer='';
+$this->enableTemplate=false;
+$this->ajaxSubmit=false;
+$this->callback='function(){}';
+$this->in_progress='function(){}';
+$this->template=null;
+$this->className='formDefault';
+$this->objectRequiredFields='[{%27name%27:%27USR_USERNAME%27,%27type%27:%27text%27,%27label%27:%27User%27,%27validate%27:%27Any%27,%27required%27:%270%27}]';
+$this->nextstepsave='';
+$this->printdynaform='';
+$this->adjustgridswidth='0';
+$this->visual_frontend=null;
+$this->tree = unserialize( 'O:8:"Xml_Node":5:{s:4:"name";s:8:"dynaForm";s:4:"type";s:4:"open";s:5:"value";s:3:"
+  ";s:10:"attributes";a:5:{s:4:"name";s:8:"sysLogin";s:7:"version";s:3:"1.0";s:7:"basedir";s:0:"";s:12:"xmlform_type";s:6:"NORMAL";s:5:"width";s:5:"400px";}s:8:"children";a:14:{i:0;O:8:"Xml_Node":5:{s:4:"name";s:5:"TITLE";s:4:"type";s:4:"open";s:5:"value";s:5:"
+    ";s:10:"attributes";a:1:{s:4:"type";s:5:"title";}s:8:"children";a:2:{i:0;O:8:"Xml_Node":5:{s:4:"name";s:2:"en";s:4:"type";s:8:"complete";s:5:"value";s:5:"Login";s:10:"attributes";a:0:{}s:8:"children";a:0:{}}i:1;O:8:"Xml_Node":5:{s:4:"name";s:0:"";s:4:"type";s:5:"cdata";s:5:"value";s:3:"
+  ";s:10:"attributes";a:0:{}s:8:"children";a:0:{}}}}i:1;O:8:"Xml_Node":5:{s:4:"name";s:0:"";s:4:"type";s:5:"cdata";s:5:"value";s:3:"
+  ";s:10:"attributes";a:0:{}s:8:"children";a:0:{}}i:2;O:8:"Xml_Node":5:{s:4:"name";s:12:"USR_USERNAME";s:4:"type";s:4:"open";s:5:"value";s:5:"
+    ";s:10:"attributes";a:4:{s:4:"type";s:4:"text";s:4:"size";s:2:"30";s:9:"maxlength";s:2:"50";s:8:"validate";s:3:"Any";}s:8:"children";a:2:{i:0;O:8:"Xml_Node":5:{s:4:"name";s:2:"en";s:4:"type";s:8:"complete";s:5:"value";s:4:"User";s:10:"attributes";a:0:{}s:8:"children";a:0:{}}i:1;O:8:"Xml_Node":5:{s:4:"name";s:0:"";s:4:"type";s:5:"cdata";s:5:"value";s:3:"
+  ";s:10:"attributes";a:0:{}s:8:"children";a:0:{}}}}i:3;O:8:"Xml_Node":5:{s:4:"name";s:0:"";s:4:"type";s:5:"cdata";s:5:"value";s:3:"
+  ";s:10:"attributes";a:0:{}s:8:"children";a:0:{}}i:4;O:8:"Xml_Node":5:{s:4:"name";s:12:"USR_PASSWORD";s:4:"type";s:4:"open";s:5:"value";s:5:"
+    ";s:10:"attributes";a:4:{s:4:"type";s:8:"password";s:4:"size";s:2:"30";s:9:"maxlength";s:2:"32";s:12:"autocomplete";s:1:"0";}s:8:"children";a:2:{i:0;O:8:"Xml_Node":5:{s:4:"name";s:2:"en";s:4:"type";s:8:"complete";s:5:"value";s:8:"Password";s:10:"attributes";a:0:{}s:8:"children";a:0:{}}i:1;O:8:"Xml_Node":5:{s:4:"name";s:0:"";s:4:"type";s:5:"cdata";s:5:"value";s:3:"
+  ";s:10:"attributes";a:0:{}s:8:"children";a:0:{}}}}i:5;O:8:"Xml_Node":5:{s:4:"name";s:0:"";s:4:"type";s:5:"cdata";s:5:"value";s:3:"
+  ";s:10:"attributes";a:0:{}s:8:"children";a:0:{}}i:6;O:8:"Xml_Node":5:{s:4:"name";s:8:"USER_ENV";s:4:"type";s:4:"open";s:5:"value";s:49:"
+SELECT ENV_ID, ENV_NAME FROM availableWorkspace
+";s:10:"attributes";a:2:{s:4:"type";s:8:"dropdown";s:13:"sqlconnection";s:7:"dbarray";}s:8:"children";a:2:{i:0;O:8:"Xml_Node":5:{s:4:"name";s:2:"en";s:4:"type";s:8:"complete";s:5:"value";s:9:"Workspace";s:10:"attributes";a:0:{}s:8:"children";a:0:{}}i:1;O:8:"Xml_Node":5:{s:4:"name";s:0:"";s:4:"type";s:5:"cdata";s:5:"value";s:1:"
+";s:10:"attributes";a:0:{}s:8:"children";a:0:{}}}}i:7;O:8:"Xml_Node":5:{s:4:"name";s:0:"";s:4:"type";s:5:"cdata";s:5:"value";s:3:"
+  ";s:10:"attributes";a:0:{}s:8:"children";a:0:{}}i:8;O:8:"Xml_Node":5:{s:4:"name";s:9:"USER_LANG";s:4:"type";s:4:"open";s:5:"value";s:44:"
+SELECT LANG_ID, LANG_NAME FROM langOptions
+";s:10:"attributes";a:2:{s:4:"type";s:8:"dropdown";s:13:"sqlconnection";s:7:"dbarray";}s:8:"children";a:2:{i:0;O:8:"Xml_Node":5:{s:4:"name";s:2:"en";s:4:"type";s:8:"complete";s:5:"value";s:8:"Language";s:10:"attributes";a:0:{}s:8:"children";a:0:{}}i:1;O:8:"Xml_Node":5:{s:4:"name";s:0:"";s:4:"type";s:5:"cdata";s:5:"value";s:1:"
+";s:10:"attributes";a:0:{}s:8:"children";a:0:{}}}}i:9;O:8:"Xml_Node":5:{s:4:"name";s:0:"";s:4:"type";s:5:"cdata";s:5:"value";s:3:"
+  ";s:10:"attributes";a:0:{}s:8:"children";a:0:{}}i:10;O:8:"Xml_Node":5:{s:4:"name";s:7:"BSUBMIT";s:4:"type";s:4:"open";s:5:"value";s:5:"
+    ";s:10:"attributes";a:1:{s:4:"type";s:6:"submit";}s:8:"children";a:2:{i:0;O:8:"Xml_Node":5:{s:4:"name";s:2:"en";s:4:"type";s:8:"complete";s:5:"value";s:5:"Login";s:10:"attributes";a:0:{}s:8:"children";a:0:{}}i:1;O:8:"Xml_Node":5:{s:4:"name";s:0:"";s:4:"type";s:5:"cdata";s:5:"value";s:3:"
+  ";s:10:"attributes";a:0:{}s:8:"children";a:0:{}}}}i:11;O:8:"Xml_Node":5:{s:4:"name";s:0:"";s:4:"type";s:5:"cdata";s:5:"value";s:3:"
+  ";s:10:"attributes";a:0:{}s:8:"children";a:0:{}}i:12;O:8:"Xml_Node":5:{s:4:"name";s:2:"JS";s:4:"type";s:8:"complete";s:5:"value";s:601:"
+
+
+setFocus (getField (\'USR_USERNAME\'));
+
+leimnud.event.add(document.getElementById(\'form[BSUBMIT]\'), \'click\', function() {
+    createCookie("pm_sys_sys", "{\\"sys_sys\\": \\"" + getField("USER_ENV").value + "\\"}", 365);
+
+    var client = getBrowserClient();
+    if (client.browser == "msie" || client.browser == "safari"){
+        document.sysLogin.submit();
+    }
+}.extend(document.getElementById(\'form[BSUBMIT]\')));
+
+try{
+    var s = new String(readCookie("pm_sys_sys"));
+    var obj = eval("(" + s + ")");
+
+    if (obj != null) {
+        getField("USER_ENV").value = obj.sys_sys;
+    }
+} catch(e){}
+
+";s:10:"attributes";a:1:{s:4:"type";s:10:"javascript";}s:8:"children";a:0:{}}i:13;O:8:"Xml_Node":5:{s:4:"name";s:0:"";s:4:"type";s:5:"cdata";s:5:"value";s:1:"
+";s:10:"attributes";a:0:{}s:8:"children";a:0:{}}}}' );
+$this->name='sysLogin';
+$this->language='en';
+$this->version='1.0';
+$this->type='xmlform';
+$this->sql=null;
+$this->sqlConnection=null;
+$this->height='100%';
+$this->border=1;
+$this->mode='';
+$this->labelWidth='40%';
+$this->onsubmit='';
+$this->requiredFields = unserialize( 'a:1:{i:0;a:5:{s:4:"name";s:12:"USR_USERNAME";s:4:"type";s:4:"text";s:5:"label";s:4:"User";s:8:"validate";s:3:"Any";s:8:"required";s:1:"0";}}' );
+$this->fieldContentWidth=450;
+?>
